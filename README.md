@@ -1,2 +1,3 @@
+Install Anaconda for python libraries.
 
-connect sqlite database
+numpy + spider IDE  + python 3 + sqlite DB
